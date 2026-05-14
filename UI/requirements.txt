@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+pandas
+openpyxl
+plotly
+jinja2
+markupsafe
+altair<5
