@@ -1,4 +1,9 @@
-pymupdf
+streamlit
 pandas
 openpyxl
-tqdm
+pdfplumber
+PyMuPDF
+python-docx
+openai
+numpy
+tabulate
